@@ -14,6 +14,7 @@ body.wishes-page {
     background-image: url(cool-chemistry-wallpapers.jpg);
     background-size: 100vw 100vh;
     color: darkslategray;
+    opacity: 0.8;
 }
 
 body.turneyes-page {
@@ -32,6 +33,7 @@ header {
 
 features {
     padding: 50px;
+    
 }
 
 i {
